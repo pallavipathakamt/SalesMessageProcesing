@@ -1,0 +1,298 @@
+[
+  {
+  	"messageType" : "TYPE1",
+    "productType":"apple",
+    "value":10
+  },
+  {
+    "messageType" : "TYPE2",
+    "productType":"apple",
+    "value": 10,
+    "occurrences": 20
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":5
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"banana",
+    "value":8
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":10
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"orange",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "MULTIPLY"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"banana",
+    "value": 10,
+    "adjustment": 5 ,
+    "operationType" : "SUBTRACT"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },  {
+    "messageType" : "TYPE2",
+    "productType":"orange",
+    "value": 10,
+    "occurrences": 10
+  },{
+  	"messageType" : "TYPE1",
+    "productType":"apple",
+    "value":10
+  },
+  {
+    "messageType" : "TYPE2",
+    "productType":"apple",
+    "value": 10,
+    "occurrences": 20
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":5
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"banana",
+    "value":8
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":10
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"orange",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "MULTIPLY"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"banana",
+    "value": 10,
+    "adjustment": 5 ,
+    "operationType" : "SUBTRACT"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },  {
+    "messageType" : "TYPE2",
+    "productType":"orange",
+    "value": 10,
+    "occurrences": 10
+  },{
+  	"messageType" : "TYPE1",
+    "productType":"apple",
+    "value":10
+  },
+  {
+    "messageType" : "TYPE2",
+    "productType":"apple",
+    "value": 10,
+    "occurrences": 20
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":5
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"banana",
+    "value":8
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":10
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"orange",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "MULTIPLY"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"banana",
+    "value": 10,
+    "adjustment": 5 ,
+    "operationType" : "SUBTRACT"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },  {
+    "messageType" : "TYPE2",
+    "productType":"orange",
+    "value": 10,
+    "occurrences": 10
+  },{
+  	"messageType" : "TYPE1",
+    "productType":"apple",
+    "value":10
+  },
+  {
+    "messageType" : "TYPE2",
+    "productType":"apple",
+    "value": 10,
+    "occurrences": 20
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":5
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"banana",
+    "value":8
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":10
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"orange",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "MULTIPLY"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"banana",
+    "value": 10,
+    "adjustment": 5 ,
+    "operationType" : "SUBTRACT"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },  {
+    "messageType" : "TYPE2",
+    "productType":"orange",
+    "value": 10,
+    "occurrences": 10
+  },{
+  	"messageType" : "TYPE1",
+    "productType":"apple",
+    "value":10
+  },
+  {
+    "messageType" : "TYPE2",
+    "productType":"apple",
+    "value": 10,
+    "occurrences": 20
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":5
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"banana",
+    "value":8
+  },
+  {
+  	"messageType" : "TYPE1",
+    "productType":"orange",
+    "value":10
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"orange",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "MULTIPLY"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"banana",
+    "value": 10,
+    "adjustment": 5 ,
+    "operationType" : "SUBTRACT"
+  },
+  {
+  	"messageType" : "TYPE3",
+    "productType":"apple",
+    "value": 10,
+    "adjustment": 20 ,
+    "operationType" : "ADD"
+  },  {
+    "messageType" : "TYPE2",
+    "productType":"orange",
+    "value": 10,
+    "occurrences": 10
+  }, {
+    "messageType" : "TYPE2",
+    "productType":"orange",
+    "value": 10,
+    "occurrences": 10
+  }
+ ]
